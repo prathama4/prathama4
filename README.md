@@ -82,11 +82,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" title="Connect with me on LinkedIn 💼" target="_blank">
+  <a href="https://www.linkedin.com/in/prathama04/" title="Connect with me on LinkedIn 💼" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-F7A8B8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com" title="Send me an email 💌">
+  <a href="mailto:prathamabiswas04@gmail.com" title="Send me an email 💌">
     <img src="https://img.shields.io/badge/Gmail-FBCFE8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
