@@ -49,28 +49,9 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathama4&show_icons=true&theme=rose_pine" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathama4&theme=rose_pine" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathama4&theme=rose-pine" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prathama4/prathama4/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -86,7 +67,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-F7A8B8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:prathamabiswas04@gmail.com" title="Send me an email 💌">
+  <a href="mailto: prathamabiswas04@gmail.com " title="Send me an email 💌">
     <img src="https://img.shields.io/badge/Gmail-FBCFE8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
