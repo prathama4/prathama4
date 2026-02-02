@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prathama Biswas 🌸</h1>
-<h3 align="center">Aspiring Software Developer | Learner | Builder 💻✨</h3>
+<h1 align="center">Hi👋, I'm Prathama</h1>
+<h3 align="center">Aspiring Developer | Learner | Builder 💻✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+love+building+and+learning+new+things;Code+%7C+Create+%7C+Grow+🌱" />
@@ -47,7 +47,7 @@
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode," />
 </p>
 
 ---
@@ -86,4 +86,4 @@
 ---
 
 ## 🌈 Fun Fact
-✨ I enjoy making things **simple, aesthetic, and meaningful** ✨
+✨ I enjoy making things **simple, aesthetic, and meaningful and a little cute** ✨
