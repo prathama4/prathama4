@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prathama Biswas 🌸</h1>
-<h3 align="center">Aspiring Software Developer | Learner | Builder 💻✨</h3>
+<h1 align="center">Hi👋, I'm Prathama</h1>
+<h3 align="center">Aspiring Developer | Learner | Builder 💻✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;I+love+building+and+learning+new+things;Let’s+grow+together+🌱✨" />
