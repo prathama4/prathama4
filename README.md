@@ -79,10 +79,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prathama4/prathama4/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
